@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.applitools:eyes-android-components:4.7.5@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/28ceb61f04d7cd3a7b929e408676632e/eyes-android-components-4.7.5/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/28ceb61f04d7cd3a7b929e408676632e/eyes-android-components-4.7.5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/28ceb61f04d7cd3a7b929e408676632e/eyes-android-components-4.7.5/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.applitools/eyes-android-components/4.7.5/d63bdf190c497be012f50d48858b6f9d424e51ce/eyes-android-components-4.7.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

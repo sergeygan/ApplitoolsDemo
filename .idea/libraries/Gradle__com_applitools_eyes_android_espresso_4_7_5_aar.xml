@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.applitools:eyes-android-espresso:4.7.5@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b486a2749f32911e7d440b48c79e30a1/eyes-android-espresso-4.7.5/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b486a2749f32911e7d440b48c79e30a1/eyes-android-espresso-4.7.5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b486a2749f32911e7d440b48c79e30a1/eyes-android-espresso-4.7.5/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.applitools/eyes-android-espresso/4.7.5/5e319a261e5b5e5e187535222cd0bdcedaf4d294/eyes-android-espresso-4.7.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
