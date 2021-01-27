@@ -45,7 +45,24 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
   </component>
-  <component name="RunManager" selected="Android Instrumented Tests.simpleTest()">
+  <component name="RunManager" selected="Android JUnit.ExampleInstrumentedTest.simpleTest">
+    <configuration name="ExampleInstrumentedTest.simpleTest" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.applitools.helloworld.android.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.applitools.helloworld.android" />
+      <option name="MAIN_CLASS_NAME" value="com.applitools.helloworld.android.ExampleInstrumentedTest" />
+      <option name="METHOD_NAME" value="simpleTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -154,6 +171,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Android JUnit.ExampleInstrumentedTest.simpleTest" />
         <item itemvalue="Android Instrumented Tests.simpleTest()" />
       </list>
     </recent_temporary>
